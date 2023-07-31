@@ -17,14 +17,14 @@ fruit = "Kiwi";             //  reasignar valor
 
 console.log(fruit);
 
-let fruit = "Banana";       // con let no puedo redeclarar, si puedo reasignar (cambiar el valor)
+//let fruit = "Banana";       // con let no puedo redeclarar, si puedo reasignar (cambiar el valor)
 console.log(fruit);
 
 //Const 
 
 const animal = 'dog';           // declara y asigna
 //animal = 'cat';               // no puedo reasignar con const
-const animal = 'snake';         // no puedo redeclarar
+//const animal = 'snake';         // no puedo redeclarar
 console.log(animal);
 
 const vehicles = [];

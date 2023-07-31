@@ -1,0 +1,12 @@
+{
+  "name": "curso-scope-closure-js",
+  "version": "1.0.0",
+  "description": "Curso de Scope y Closure en JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
